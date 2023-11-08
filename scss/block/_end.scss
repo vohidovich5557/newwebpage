@@ -1,0 +1,36 @@
+.end_container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 62px;
+    padding-bottom: 62px;
+    align-items: center;
+}
+
+.end {
+    background-color: #F3603C;
+    background-repeat: no-repeat;
+    background-position: left top, right center;
+
+}
+
+.end_info_title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+    /* 110% */
+    letter-spacing: -0.714px;
+    width: 455px;
+}
+
+.end_btn {
+    color: #F3603C;
+    font-size: 13px;
+    font-weight: 700;
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding-top: 12px;
+    padding-bottom: 13px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
